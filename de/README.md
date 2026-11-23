@@ -25,7 +25,8 @@ This directory (`de/`) contains comprehensive, project-specific technical docume
 | [`Q4_Data_Correctness_and_Transactions.md`](./Q4_Data_Correctness_and_Transactions.md) | **Q4: Data Correctness, Constraints & Transactions** | Database-level constraints (`PRIMARY KEY`, `UNIQUE`, `NOT NULL`, `CHECK`), application-layer validations, multi-statement transaction atomicity (`BEGIN ... COMMIT / ROLLBACK`), concurrency isolation (`READ COMMITTED`), and live constraint failure tests. |
 | [`Q5_Performance_and_Scaling.md`](./Q5_Performance_and_Scaling.md) | **Q5: Performance, Indexing & Scaling** | B-tree index audit on high-cardinality keys, composite unique index optimization, query execution plan analysis (`EXPLAIN ANALYZE`), index overhead avoidance, and $100\times$ scalability strategy (caching, connection pooling, read replicas, partitioning). |
 | [`demonstration_queries.sql`](./demonstration_queries.sql) | **Executable SQL Demonstration Script** | Complete runnable SQL file for PostgreSQL/psql/Prisma Studio to demonstrate tables, live seed data, constraint rejections, cross-table join calculations, transactions, and `EXPLAIN ANALYZE` plans during your video recording. |
-| [`viva_presentation_script.md`](./viva_presentation_script.md) | **Word-for-Word Video Recording Script** | Timestamped speaking script with exact visual cues telling you when to switch between VS Code, terminal/database console, and browser/Unity. |
+| [`5_min_video_transcript.md`](./5_min_video_transcript.md) | **5-Minute Timed Video Script** | Precise 5-minute (300 seconds) video transcript detailing exact spoken words, timestamps, and what to share on screen (VS Code files, console commands, Unity/Web app). |
+| [`viva_presentation_script.md`](./viva_presentation_script.md) | **Extended Video Recording Script** | Detailed 10-12 minute script with extensive commentary and deep architectural explanations. |
 
 ---
 
